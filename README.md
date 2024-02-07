@@ -1,10 +1,11 @@
 # Instalando  o Virtual Guest Additions no Debian
 
 <h3>
+	<p>
 Em Distribuiçoes Linux é possivel adicionar de uma forma  mais simplificada tais como:  Ubuntu, Xubuntu, Lubuntu, Linux Mint, Zorin entre outros.
 
  Porém no Debian é um pouco diferente o processo
-
+</p>
 </h3>
  <hr>
 
