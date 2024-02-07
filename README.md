@@ -103,10 +103,6 @@ Em Distribuiçoes Linux é possivel adicionar de uma forma  mais simplificada ta
     e posteriormente refazer  os passos  7.1 e 7.2
 
  ```
-   
-   ###
-    Tutorial para compartilhamento de conhecimento 
-   ###
 
 
  [  Link do tutorial oficial ] (https://www.youtube.com/watch?v=m7slrh2OEec)
