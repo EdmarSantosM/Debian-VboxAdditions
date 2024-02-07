@@ -1,10 +1,9 @@
-# Debian-VBoxLinux
 
-Instalando  o Virtual Guest Additions no Debian
+# Instalando  o Virtual Guest Additions no Debian
 
 
-Em Distribuiçoes Linux é possivel adicionar de uma forma  mais simplificada:
-Ubuntu, Xubuntu, Lubuntu, Linux Mint, Zorin entre outros.
+### Em Distribuiçoes Linux é possivel adicionar de uma forma  mais simplificada  em versões tais como :
+- Ubuntu, Xubuntu, Lubuntu, Linux Mint, Zorin entre outros.
 
 Porém no Debian é um pouco diferente o processo.
 
